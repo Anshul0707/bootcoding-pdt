@@ -1,10 +1,11 @@
+package com.bootcoding.model;
 
 public class Order{
-	int id;
-	String vendorName;
-	String customerName;
-	double amount;
-	int quantity;
+	public int id;
+	public String vendorName;
+	public String customerName;
+	public double amount;
+	public int quantity;
 
 
 }

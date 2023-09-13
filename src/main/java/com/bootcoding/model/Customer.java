@@ -1,11 +1,10 @@
 package com.bootcoding.model;
 
 public class Customer{
-	int id;
-	String name;
-	String deliveryAddress;
-	long phone;
-	String city;
-
+	public int id;
+	public String name;
+	public String deliveryAddress;
+	public long phone;
+	public String city;
 
 }

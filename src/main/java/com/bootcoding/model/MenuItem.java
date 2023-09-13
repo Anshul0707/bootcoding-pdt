@@ -1,11 +1,12 @@
+package com.bootcoding.model;
 
 public class MenuItem{
-	int id;
-	String vendorName;
-	String menuName;
-	String menuCategory;
-	double amount;
-	boolean isVeg;
+	public int id;
+	public String vendorName;
+	public String menuName;
+	public String menuCategory;
+	public double amount;
+	public boolean isVeg;
 
 
 }

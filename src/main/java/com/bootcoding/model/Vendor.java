@@ -1,10 +1,11 @@
+package com.bootcoding.model;
 
 public class Vendor{
-	int id;
-	String name;
-	String address;
-	long phone;
-	String city;
+	public int id;
+	public String name;
+	public String address;
+	public long phone;
+	public String city;
 
 
 }
